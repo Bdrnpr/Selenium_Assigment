@@ -17,7 +17,6 @@ public class CheckoutTests extends CartTests{
         checkoutPageObejcts.setContinueButton();
         checkoutPageObejcts.setFinishButton();
         Assert.assertEquals(checkoutPageObejcts.SuccessfulMessage(),"THANK YOU FOR YOUR ORDER");
-        Thread.sleep(5000);
     }
 
 }
