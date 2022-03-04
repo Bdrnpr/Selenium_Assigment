@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_Assigment"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="58,070">
+    <properties></properties>
+
+
+
+            <testcase
+                name="LoginTestNegative"
+                time="27,891"
+                classname="tests.CartTests">
+            </testcase>
+            <testcase
+                name="addCartTest"
+                time="11,695"
+                classname="tests.CartTests">
+            </testcase>
+            <testcase
+                name="LoginTest"
+                time="18,426"
+                classname="tests.CartTests">
+            </testcase>
+            <testcase
+                name="removeCartTest"
+                time="0,058"
+                classname="tests.CartTests">
+            </testcase>
+</testsuite>

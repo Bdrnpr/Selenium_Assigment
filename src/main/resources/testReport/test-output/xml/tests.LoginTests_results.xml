@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_Assigment"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9,739">
+    <properties></properties>
+
+
+
+            <testcase
+                name="LoginTestNegative"
+                time="9,420"
+                classname="tests.LoginTests">
+            </testcase>
+            <testcase
+                name="LoginTest"
+                time="0,319"
+                classname="tests.LoginTests">
+            </testcase>
+</testsuite>
